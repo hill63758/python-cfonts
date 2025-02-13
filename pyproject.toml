@@ -1,0 +1,5 @@
+[project]
+name = "python-cfonts"
+version = "0.1.0"
+description = "Sexy fonts for the console"
+requires-python = ">=3.10"
