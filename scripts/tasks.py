@@ -1,0 +1,9 @@
+"""Sexy fonts for the console"""
+
+
+def main() -> None:
+    print("ok")
+
+
+if __name__ == "__main__":
+    main()
